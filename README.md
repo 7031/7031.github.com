@@ -2,7 +2,7 @@
 JoelNichols.co.uk - My Website
 ===
 
-About this repository1
+About this repository
 ---
 This is the Github repository for my website. When you access my website, you're really getting these files.
 
