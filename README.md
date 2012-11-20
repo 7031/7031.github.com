@@ -7,7 +7,7 @@ This is the Github repository for my website. When you access my website, you're
 
 I'll be adding a blog shortly, most likely using Jekyll (since static content generation is nice). 
 
-I'm not 100% sure whether or not I'll continue using Github pages for my site, since of course I still have my own server, which is nice simply because it's me managing it. On the other hand, Github has pretty good stability.
+I'm not 100% sure whether or not I'll continue using Github pages for my site, since of course I still have my own server, which is nice simply because it's me managing it, which is important if I decide to go for something a little more dynamic (Ruby on Rails anyone?). On the other hand, Github has pretty good stability.
 
 License
 ---
